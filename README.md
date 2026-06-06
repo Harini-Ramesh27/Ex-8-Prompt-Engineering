@@ -29,5 +29,9 @@ Comparison between simple and detailed prompts
 
 Observations and analysis
 
+OUTPUT:
+
+[HARI EXP 8.pdf](https://github.com/user-attachments/files/28661787/HARI.EXP.8.pdf)
+
 Result:
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
